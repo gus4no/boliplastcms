@@ -31,6 +31,10 @@ gem 'refinerycms-i18n', github: 'refinery/refinerycms-i18n', branch: 'master'
 gem 'refinerycms', github: 'refinery/refinerycms', branch: "master"
 gem 'pg'
 
+gem "therubyracer"
+gem "less-rails"
+gem "twitter-bootstrap-rails"
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
